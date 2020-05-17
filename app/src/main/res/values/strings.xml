@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="welcome">WELCOME</string>
+    <string name="e_mail_id">E Mail ID</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user">NEW USER</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="register_here">REGISTER HERE</string>
+    <string name="register">REGISTER</string>
+    <string name="email_id_password">EMail ID Password</string>
+    <string name="browser">BROWSER</string>
+    <string name="message">MESSAGE</string>
+    <string name="phone">PHONE</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="instagram">INSTAGRAM</string>
+</resources>
